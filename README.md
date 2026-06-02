@@ -19,8 +19,11 @@ HO PC Launcher helps you organize your daily workflow with panels for favorite a
 
 ## ⬇️ Download
 
-Free 30-minute trial included.  
-A lifetime license is required after the trial period.
+You can try the app for **30 minutes without a license**.
+
+Restarting the app starts a new trial session.
+
+A lifetime license removes this time limit.
 
 [Download the latest version](https://github.com/HOStudioApps/HO-PC-Launcher/releases/latest)
 
