@@ -27,6 +27,14 @@ A lifetime license removes this time limit.
 
 [Download the latest version](https://github.com/HOStudioApps/HO-PC-Launcher/releases/latest)
 
+## 🛡️ Security / Verification
+
+HO PC Launcher is currently distributed as an unsigned Windows installer.
+
+SHA256 checksums, VirusTotal reports, and privacy notes are available here:
+
+[Security and File Verification](./SECURITY.md)
+
 ## 🎬 Demo Video
 
 [Watch the official demo](https://www.youtube.com/watch?v=L6LP3mqr2dM)
@@ -43,4 +51,7 @@ HO PC Launcher is commercial software.
 
 ## 📦 Source Code
 
-Source code is not included.
+The source code is not public at the moment.
+
+HO PC Launcher is currently distributed as a prebuilt Windows executable.
+
