@@ -4,7 +4,7 @@
 
 A customizable desktop launcher widget for Windows.
 
-HO PC Launcher helps you organize your daily workflow with panels for favorite apps, memos, audio controls, display brightness, and profiles.
+It helps you organize your daily workflow with panels for favorite apps, memos, audio controls, display brightness, and profiles.
 
 ## ✨ Features
 
@@ -29,9 +29,9 @@ A lifetime license removes this time limit.
 
 ## 🛡️ Security / Verification
 
-HO PC Launcher is currently distributed as an unsigned Windows installer.
+The app is currently distributed as an unsigned Windows installer.
 
-SHA256 checksums, VirusTotal reports, and privacy notes are available here:
+SHA256 checksums, VirusTotal reports, privacy notes, and Microsoft false-positive review status are available here:
 
 [Security and File Verification](./SECURITY.md)
 
@@ -41,7 +41,7 @@ SHA256 checksums, VirusTotal reports, and privacy notes are available here:
 
 ## 🔑 License
 
-HO PC Launcher is commercial software.
+This is commercial software.
 
 [Purchase a lifetime license](https://hostudio.lemonsqueezy.com)
 
@@ -53,5 +53,5 @@ HO PC Launcher is commercial software.
 
 The source code is not public at the moment.
 
-HO PC Launcher is currently distributed as a prebuilt Windows executable.
+The app is currently distributed as a prebuilt Windows executable.
 
