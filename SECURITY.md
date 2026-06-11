@@ -36,4 +36,13 @@ For transparency, VirusTotal reports are provided for both the installer and the
 
 Some antivirus engines may show generic / heuristic / machine-learning detections for unsigned Windows installers or low-reputation binaries.
 
-The flagged files will be submitted to relevant vendors for false-positive review.
+## False-Positive Review Status
+
+The following files were submitted to Microsoft Security Intelligence for false-positive review on June 11, 2026.
+
+| File                             | SHA256                                                             | Status                              |
+| -------------------------------- | ------------------------------------------------------------------ | ----------------------------------- |
+| `HO_PCLauncher_Setup_v1_0_3.exe` | `292248ea878f5c346b047fb6d350a802b32f21d62dffd88154cc1bb16f22853c` | Submitted to Microsoft, in progress |
+| `HO_PCLauncher.exe`              | `b041b5288a887153369d7c35ffbaf0de2b7f4b03fe0a7ab251be951809cf8fa0` | Submitted to Microsoft, in progress |
+
+I will update this page when Microsoft completes the review.
