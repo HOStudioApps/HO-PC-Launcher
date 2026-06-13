@@ -1,7 +1,11 @@
 # HO PC Launcher
 
+![HO PC Launcher](HO%20PC%20Laucnher(GitHub).gif)
+
+<!--
 <img width="163" height="594" alt="image" src="https://github.com/user-attachments/assets/df9813eb-7972-43d9-ac3a-381044faa750" />
 <img width="163" height="594" alt="ref_07_settings" src="https://github.com/user-attachments/assets/7512dceb-d1d2-4dad-8271-b5816395f6bc" />
+-->
 
 A customizable desktop launcher widget for Windows.
 
