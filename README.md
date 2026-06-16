@@ -1,6 +1,6 @@
 # HO PC Launcher
 
-![HO PC Launcher](HO%20PC%20Laucnher(GitHub).gif)
+![HO PC Launcher](HO%20PC%20Laucnher\(GitHub\).gif)
 
 <!--
 <img width="163" height="594" alt="image" src="https://github.com/user-attachments/assets/df9813eb-7972-43d9-ac3a-381044faa750" />
@@ -32,14 +32,6 @@ A lifetime license removes this time limit.
 
 [Download the latest version](https://github.com/HOStudioApps/HO-PC-Launcher/releases/latest)
 
-## 🛡️ Security / Verification
-
-The app is currently distributed as an unsigned Windows installer.
-
-SHA256 checksums, VirusTotal reports, privacy notes, and Microsoft false-positive review status are available here:
-
-[Security and File Verification](./SECURITY.md)
-
 ## 🎬 Demo Video
 
 [Watch the official demo](https://www.youtube.com/watch?v=L6LP3mqr2dM)
@@ -60,3 +52,12 @@ The source code is not public at the moment.
 
 The app is currently distributed as a prebuilt Windows executable.
 
+## 🛡️ Security and Privacy
+
+HO PC Launcher stores its settings locally under `%LocalAppData%\HO_PCLauncher`.
+
+There is no cloud sync or external upload.
+
+The app is currently unsigned, so Windows or some antivirus products may show a reputation-based warning.
+
+Please download the app only from the official GitHub Releases page.
