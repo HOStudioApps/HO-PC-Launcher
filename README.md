@@ -59,5 +59,3 @@ HO PC Launcher stores its settings locally under `%LocalAppData%\HO_PCLauncher`.
 There is no cloud sync or external upload.
 
 The app is currently unsigned, so Windows or some antivirus products may show a reputation-based warning.
-
-Please download the app only from the official GitHub Releases page.
