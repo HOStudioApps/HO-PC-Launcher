@@ -38,9 +38,7 @@ A lifetime license removes this time limit.
 
 ## 🔑 License
 
-This is commercial software.
-
-[Purchase a lifetime license](https://hostudio.lemonsqueezy.com)
+[Get a lifetime license](https://hostudio.lemonsqueezy.com)
 
 ## 🖼️ Screenshots & Feature Details
 
